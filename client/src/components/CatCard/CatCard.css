@@ -1,0 +1,51 @@
+.CatCard {
+  background: #fff;
+  border-radius: 2px;
+  height: 10%;
+  margin: 1rem;
+  position: relative;
+  width: 10%;
+  box-shadow: 0 3px 6px #999, 0 3px 6px #999;
+  
+}
+
+.CatCard > .img-container {
+  height: 200%;
+  overflow: hidden;
+  text-align: center;
+  
+}
+.CatCard > .img-container > img {
+    width:200px;
+    height:200px;
+    object-fit: cover;
+    overflow: hidden;
+    background-color: red
+}
+
+/* .CatCard > .content {
+  padding-left: 1rem;
+  padding-right: 1rem;
+  font-size: 15px;
+} */
+/* 
+.CatCard > .content > ul {
+  list-style-type: none;
+}
+
+.CatCard > .content > ul > li {
+  margin-top: 18px;
+} */
+/* 
+.CatCard > .remove {
+  color: #ff1744;
+  font-size: 48px;
+  position: absolute;
+  top: -20px;
+  right: 5px;
+  cursor: pointer;
+} */
+
+/* .CatCard > .remove:hover {
+  color: #d50000;
+} */
