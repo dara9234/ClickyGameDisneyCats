@@ -1,0 +1,13 @@
+.wrapper {
+  padding-top: 40px;
+  color: #2A77AE;
+  height: 100%;
+  display: flex;
+  flex-flow: row wrap;
+  padding: 20px;
+  justify-content: space-evenly;
+  align-content: flex-start;
+  overflow: auto;
+  /* background-image: url(/ClickyGameDisneyCats/client/public/images/bggreen.jpg) */
+  background-color: peachpuff
+}
