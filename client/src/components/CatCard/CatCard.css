@@ -36,30 +36,3 @@
     width: 100%;
     height: 100%;
 }
-
-/* .cat> .content {
-  padding-left: 1rem;
-  padding-right: 1rem;
-  font-size: 15px;
-} */
-/* 
-.cat > .content > ul {
-  list-style-type: none;
-}
-
-.cat > .content > ul > li {
-  margin-top: 18px;
-} */
-
-/* .cat > .remove {
-   color: #ff1744;
-  font-size: 48px;
-  position: absolute;
-  top: -20px;
-  right: 5px;
-  cursor: pointer;
-}  */
-
-/* .cat > .remove:hover {
-  color: #d50000;
-} */
