@@ -23,6 +23,7 @@
   overflow: hidden;
   text-align: center;
   background:black;
+
   
 }
 .cat > .img-container > img {
@@ -36,29 +37,29 @@
     height: 100%;
 }
 
-/* .CatCard > .content {
+/* .cat> .content {
   padding-left: 1rem;
   padding-right: 1rem;
   font-size: 15px;
 } */
 /* 
-.CatCard > .content > ul {
+.cat > .content > ul {
   list-style-type: none;
 }
 
-.CatCard > .content > ul > li {
+.cat > .content > ul > li {
   margin-top: 18px;
 } */
-/* 
-.CatCard > .remove {
-  color: #ff1744;
+
+/* .cat > .remove {
+   color: #ff1744;
   font-size: 48px;
   position: absolute;
   top: -20px;
   right: 5px;
   cursor: pointer;
-} */
+}  */
 
-/* .CatCard > .remove:hover {
+/* .cat > .remove:hover {
   color: #d50000;
 } */

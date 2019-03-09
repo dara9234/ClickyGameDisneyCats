@@ -4,13 +4,13 @@ import "./CatCard.css";
 
 function CatCard(props) {
   return (
-    <div className="cat">
+    <div className="cat" onClick={() => props.randomImages(props.id)}>
       <div className="img-container" >
-        <img alt={props.name} src={props.image} />
+        <img className ="img" alt={props.name} src={props.image} id = {props.id} />
       </div>
-      {/* <span onClick={() => props.CatCard(props.id)} className="nottwice">
+     
         
-      </span> */}
+    
     </div>
   );
 }
