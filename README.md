@@ -24,7 +24,7 @@ Created a React Clicky game which requires user to click on different images in 
 
 The app is deployed to GitHub pages!!! I have followed the deployment instruction via:
 
- https://facebook.github.io/create-react-app/docs/deployment
+ [Instructions on How to Deploy React App to GitHub Pages](https://facebook.github.io/create-react-app/docs/deployment)
 
 
 ### Technologies Used
