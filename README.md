@@ -7,7 +7,7 @@ Created a React Clicky game which requires user to click on different images in 
 
 ### Folder Structure
 
-* For this app, I have followed an specified folder structre and Created the main Reop called `ClickGameDisneyCats`. Inside the folder, created React `Client` app. Created all the components and  organized them for easy access and understaning!
+* For this app, I have followed an specified folder structre and Created the main Reop called `ClickyGameDisneyCats`. Inside the folder, created React `Client` app. Created all the components and  organized them for easy access and understaning!
 
 ## How the app works
 
