@@ -1,17 +1,20 @@
-import React from "react";
+import React, {Component} from "react";
 import "./Navbar.css";
 
-  
-function Navbar(props) {
-return (
-<div>
-  <h1 className="nav1">{props.children}</h1>
-  {/* <h1> this.setState({ score: this.state.score topscore: this.state.topscore})</h1> */}
-  {/* <p>2</p> */}
-    </div>
-)  
-}
+class Navbar extends Component {
+  render() {
+    return (
+      <div className = "nav navbar">
+        
+        <h2> Score: {this.props.score}</h2>
+        <h2> Top Score: {this.props.topscore}</h2>
+       
+      </div>
 
+
+    );
+  }
+}
 export default Navbar;
     
 

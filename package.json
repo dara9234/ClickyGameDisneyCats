@@ -4,6 +4,7 @@
   "private": true,
   "homepage": "https://dara9234.github.io/ClickyGameDisneyCats/",
   "dependencies": {
+    "gh-pages": "^2.0.1",
     "react": "^16.8.4",
     "react-dom": "^16.8.4",
     "react-scripts": "2.1.5"
